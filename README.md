@@ -2,6 +2,9 @@
 
 This is a full‑stack CRUD app with authentication. Backend is FastAPI (JWT, Motor for MongoDB). Frontend is React + TypeScript (Vite) with a minimal UI.
 
+GUI:
+![Screenshot](frontend/gui-sample.png)
+
 ## Prerequisites
 - Python 3.11+
 - Node.js 18+
